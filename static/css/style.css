@@ -1,0 +1,28 @@
+#add {
+    height: 30px;
+    background-color: rgb(117, 223, 12);
+    border: 0;
+    font-size: larger;
+    color: white;
+    border-radius: 50%;
+}
+.todo-app{
+    width: 50%;
+    height: 70%;
+    background-color: rgb(201, 195, 195);
+    border-radius: 10px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 300px,100px;
+}
+.title {
+    width: 70%;
+    height: 150px;
+    background: #ddd;
+}
+.todolist {
+    width: 30%;
+    height: 150px;
+    background: #959595;
+}
